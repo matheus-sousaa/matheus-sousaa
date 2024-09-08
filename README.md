@@ -1,8 +1,6 @@
 ### Eae, eu sou o Matheus Sousa 👋
 
-- 🔭 Hoje trabalho com suporte
 - 🌱 Estudando: JavaScript/HTML5/CSS3
-- 😄 Pronouns: ele/dele
 
  <div>
   <a href="https://github.com/matheus-sousaa">
